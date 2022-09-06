@@ -1,5 +1,5 @@
 {
-  "name": "expense-tracker-react-app",
+  "name": "budget-report-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,5 +32,5 @@
     ]
   },
   "keywords": [],
-  "description": "Expense tracker react app made with tutorial from Traversy Media"
+  "description": "Budget Report react app made with tutorial from Traversy Media"
 }
